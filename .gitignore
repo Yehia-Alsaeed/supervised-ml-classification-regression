@@ -1,0 +1,32 @@
+# Local datasets
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Submission/report files
+*.pdf
+*.docx
+*.pptx
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
