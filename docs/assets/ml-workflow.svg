@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="310" viewBox="0 0 980 310" role="img" aria-labelledby="title desc">
+<title id="title">Shared Machine Learning Workflow</title>
+<desc id="desc">Common workflow used across the three notebooks</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="46" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933">Shared Machine Learning Workflow</text>
+<text x="40" y="73" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#52616b">Common workflow used across the three notebooks</text>
+<rect x="40" y="130" width="160" height="82" rx="8" fill="#edf6f9" stroke="#315f72" stroke-width="1.5"/>
+<text x="120.0" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Data Cleaning</text>
+<text x="120.0" y="183" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">missing values</text>
+<text x="120.0" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">duplicates, outliers</text>
+<line x1="205" y1="171.0" x2="218" y2="171.0" stroke="#334155" stroke-width="1.5"/>
+<path d="M 218 165.0 L 230 171.0 L 218 177.0 Z" fill="#334155"/>
+<rect x="230" y="130" width="160" height="82" rx="8" fill="#eff6ee" stroke="#3f7f5f" stroke-width="1.5"/>
+<text x="310.0" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Preprocessing</text>
+<text x="310.0" y="183" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">encoding</text>
+<text x="310.0" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">scaling, feature setup</text>
+<line x1="395" y1="171.0" x2="408" y2="171.0" stroke="#334155" stroke-width="1.5"/>
+<path d="M 408 165.0 L 420 171.0 L 408 177.0 Z" fill="#334155"/>
+<rect x="420" y="130" width="160" height="82" rx="8" fill="#fff4df" stroke="#9a7b35" stroke-width="1.5"/>
+<text x="500.0" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Model Training</text>
+<text x="500.0" y="183" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">classification and regression models</text>
+<text x="500.0" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b"></text>
+<line x1="585" y1="171.0" x2="598" y2="171.0" stroke="#334155" stroke-width="1.5"/>
+<path d="M 598 165.0 L 610 171.0 L 598 177.0 Z" fill="#334155"/>
+<rect x="610" y="130" width="160" height="82" rx="8" fill="#f1f0fb" stroke="#5d5a99" stroke-width="1.5"/>
+<text x="690.0" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Tuning</text>
+<text x="690.0" y="183" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">GridSearchCV and feature selection</text>
+<text x="690.0" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b"></text>
+<line x1="775" y1="171.0" x2="788" y2="171.0" stroke="#334155" stroke-width="1.5"/>
+<path d="M 788 165.0 L 800 171.0 L 788 177.0 Z" fill="#334155"/>
+<rect x="800" y="130" width="160" height="82" rx="8" fill="#fcefed" stroke="#a84f4f" stroke-width="1.5"/>
+<text x="880.0" y="160" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Evaluation</text>
+<text x="880.0" y="183" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">metrics</text>
+<text x="880.0" y="198" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">curves, model comparison</text>
+<text x="40" y="270" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#52616b">The same pipeline pattern is reused across income classification, insurance classification, and temperature regression.</text>
+</svg>

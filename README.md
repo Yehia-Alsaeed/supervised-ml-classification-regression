@@ -59,12 +59,26 @@ Best result:
 - MAE: 0.783
 - Best model among Linear Regression, Decision Tree, and Random Forest
 
+## Results and Workflow
+
+Detailed result tables are available in [docs/results.md](docs/results.md).
+
+![Shared Machine Learning Workflow](docs/assets/ml-workflow.svg)
+
+![Adult Income Classification Results](docs/assets/adult-income-results.svg)
+
+![Car Insurance Classification Results](docs/assets/car-insurance-results.svg)
+
+![Bias Correction Regression Results](docs/assets/bias-correction-results.svg)
+
 ## Repository Structure
 
 ```text
 adult_income_classification.ipynb      Adult income classification workflow
 car_insurance_classification.ipynb     Car insurance classification workflow
 bias_correction_regression.ipynb       Temperature bias-correction regression workflow
+docs/results.md                        Compact model comparison tables
+docs/assets/                           Result charts and workflow diagram
 requirements.txt                       Python dependencies
 ```
 
@@ -89,19 +103,3 @@ The notebooks use these relative paths so they can run cleanly on any machine af
 - Matplotlib
 - Seaborn
 - scikit-learn
-
-## Getting Started
-
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Then open any of the notebooks and run the cells from top to bottom after placing the required dataset files in `data/`.

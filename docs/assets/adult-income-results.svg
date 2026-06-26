@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+<title id="title">Adult Income Classification Results</title>
+<desc id="desc">Tuned model comparison on the held-out test set</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="46" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933">Adult Income Classification Results</text>
+<text x="40" y="73" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#52616b">Tuned model comparison on the held-out test set</text>
+<text x="40" y="146" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Logistic Regression</text>
+<text x="198" y="139" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">Accuracy</text>
+<rect x="210" y="126" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="126" width="497.5" height="16" rx="3" fill="#315f72"/>
+<text x="809" y="139" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.850</text>
+<text x="198" y="162" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">F1</text>
+<rect x="210" y="149" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="149" width="383.5" height="16" rx="3" fill="#3f7f5f"/>
+<text x="809" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.656</text>
+<text x="198" y="185" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">ROC AUC</text>
+<rect x="210" y="172" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="172" width="526.8" height="16" rx="3" fill="#9a7b35"/>
+<text x="809" y="185" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.900</text>
+<line x1="40" y1="201" x2="850" y2="201" stroke="#d9e2ec" stroke-width="1"/>
+<text x="40" y="238" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">Random Forest</text>
+<text x="40" y="260" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#3f7f5f">selected best</text>
+<text x="198" y="231" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">Accuracy</text>
+<rect x="210" y="218" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="218" width="500.2" height="16" rx="3" fill="#315f72"/>
+<text x="809" y="231" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.855</text>
+<text x="198" y="254" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">F1</text>
+<rect x="210" y="241" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="241" width="385.5" height="16" rx="3" fill="#3f7f5f"/>
+<text x="809" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.659</text>
+<text x="198" y="277" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">ROC AUC</text>
+<rect x="210" y="264" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="264" width="531.5" height="16" rx="3" fill="#9a7b35"/>
+<text x="809" y="277" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.909</text>
+<line x1="40" y1="293" x2="850" y2="293" stroke="#d9e2ec" stroke-width="1"/>
+<text x="40" y="330" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f2933">KNN + Feature Selection</text>
+<text x="198" y="323" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">Accuracy</text>
+<rect x="210" y="310" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="310" width="489.5" height="16" rx="3" fill="#315f72"/>
+<text x="809" y="323" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.837</text>
+<text x="198" y="346" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">F1</text>
+<rect x="210" y="333" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="333" width="373.8" height="16" rx="3" fill="#3f7f5f"/>
+<text x="809" y="346" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.639</text>
+<text x="198" y="369" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" fill="#52616b">ROC AUC</text>
+<rect x="210" y="356" width="585" height="16" rx="3" fill="#eef2f7"/>
+<rect x="210" y="356" width="504.8" height="16" rx="3" fill="#9a7b35"/>
+<text x="809" y="369" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2933">0.863</text>
+<text x="40" y="455" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#52616b">Random Forest achieved the best overall accuracy and ROC AUC for this notebook.</text>
+</svg>
